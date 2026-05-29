@@ -1,0 +1,158 @@
+{
+  "123": {
+    "username": "123",
+    "password": "205239b5fa8ff16a15760ea372271b8af77abfcccb82cab1d5f098acf98f1f26",
+    "token": "26592703eed139567f819d6f0597c8dc72ad6c6968c6294db53194baabda4f81",
+    "createdAt": "2026-05-28T03:11:09.268Z",
+    "progress": {
+      "highScore": 0,
+      "coins": 0,
+      "upgrades": {},
+      "totalKills": 0,
+      "totalGames": 0,
+      "achievements": []
+    }
+  },
+  "4654": {
+    "username": "4654",
+    "password": "9d41382a4ab49a24f1e65a0c08ff089dbfda4e0b8b41662b1761a9a7b2dba00e",
+    "token": "a6df06e9053c34e3c63ae2b609ba9f7a0983b5a72c037e62a1fe88cb3234d1d4",
+    "createdAt": "2026-05-28T01:59:31.453Z",
+    "progress": {
+      "highScore": 1264.2797999999784,
+      "coins": 470,
+      "upgrades": {
+        "maxHp": 1,
+        "speed": 1,
+        "dashCd": 5,
+        "dashRng": 2,
+        "magnet": 0,
+        "coinMul": 0,
+        "startShd": 0,
+        "shockCd": 0,
+        "luck": 0
+      },
+      "totalKills": 126,
+      "totalGames": 16,
+      "achievements": [
+        "first_kill",
+        "score_500",
+        "kill_100"
+      ]
+    }
+  },
+  "121212": {
+    "username": "121212",
+    "password": "e958e83bd48d081e2604cfbbb4606592f053c5507a4b24498ad3e92d5760aee0",
+    "token": "dfabf2c488e07fe15b25683543fed4268e126f623651ac8b0caa5311d2ca1f21",
+    "createdAt": "2026-05-28T03:45:27.281Z",
+    "progress": {
+      "highScore": 293.8964000000023,
+      "coins": 150,
+      "upgrades": {
+        "maxHp": 0,
+        "speed": 0,
+        "dashCd": 0,
+        "dashRng": 0,
+        "magnet": 0,
+        "coinMul": 0,
+        "startShd": 0
+      },
+      "totalKills": 46,
+      "totalGames": 8,
+      "achievements": []
+    }
+  },
+  "123456": {
+    "username": "123456",
+    "password": "205239b5fa8ff16a15760ea372271b8af77abfcccb82cab1d5f098acf98f1f26",
+    "token": "660e6a5e4e7ac65918933c89a4d817d8f058975ef2b63d2d51402333d6187bab",
+    "createdAt": "2026-05-28T02:38:58.749Z",
+    "progress": {
+      "highScore": 181.29700000000142,
+      "coins": 180,
+      "upgrades": {
+        "maxHp": 0,
+        "speed": 0,
+        "dashCd": 0,
+        "dashRng": 0,
+        "magnet": 0,
+        "coinMul": 0,
+        "startShd": 0,
+        "shockCd": 0,
+        "luck": 0
+      },
+      "totalKills": 38,
+      "totalGames": 21,
+      "achievements": [
+        "first_kill"
+      ]
+    }
+  },
+  "ttt": {
+    "username": "ttt",
+    "password": "dcf1f7a0dbd827c6d837ebda79c9500f0cc333399bd2a5a2420b25833dca7410",
+    "token": "6102b5cc79bcf5a0939cb931143b13d7d2e6c4c7b6ca84af9459a0031b19158c",
+    "createdAt": "2026-05-28T01:43:57.114Z",
+    "progress": {
+      "highScore": 67357.17240000439,
+      "coins": 16799,
+      "upgrades": {
+        "maxHp": 8,
+        "speed": 8,
+        "dashCd": 7,
+        "dashRng": 7,
+        "magnet": 6,
+        "coinMul": 5,
+        "startShd": 5,
+        "shockCd": 0,
+        "luck": 0
+      },
+      "totalKills": 2348,
+      "totalGames": 130,
+      "achievements": [
+        "first_kill",
+        "score_500",
+        "combo_10",
+        "kill_100",
+        "score_2000",
+        "survive_120",
+        "kill_500",
+        "kill_1000",
+        "coins_500",
+        "score_5000",
+        "boss_kills_3",
+        "skill_collect",
+        "survive_180"
+      ]
+    }
+  },
+  "testplayer99": {
+    "username": "testplayer99",
+    "password": "205239b5fa8ff16a15760ea372271b8af77abfcccb82cab1d5f098acf98f1f26",
+    "token": "23962570637a99854a2fe7cd682213a1746fc4b649649ba44f91ca3141f086f3",
+    "createdAt": "2026-05-29T09:01:21.324Z",
+    "progress": {
+      "highScore": 0,
+      "coins": 0,
+      "upgrades": {},
+      "totalKills": 0,
+      "totalGames": 0,
+      "achievements": []
+    }
+  },
+  "testfix": {
+    "username": "testfix",
+    "password": "205239b5fa8ff16a15760ea372271b8af77abfcccb82cab1d5f098acf98f1f26",
+    "token": "8869a1d303d783308e6a6b8de5b4893e0616e77abb10388d070d71258445ecb7",
+    "createdAt": "2026-05-29T09:25:40.269Z",
+    "progress": {
+      "highScore": 0,
+      "coins": 0,
+      "upgrades": {},
+      "totalKills": 0,
+      "totalGames": 0,
+      "achievements": []
+    }
+  }
+}
