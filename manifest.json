@@ -1,0 +1,14 @@
+{
+  "name": "虚空冲刺 - Void Dasher",
+  "short_name": "虚空冲刺",
+  "description": "元气骑士风格多人联机动作游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#0a0a14",
+  "background_color": "#0a0a14",
+  "icons": [
+    {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
